@@ -152,7 +152,7 @@ namespace HelloApp
 
             Items.Add(new FlyoutItem
             {
-                Title = "Все Идиоты",
+                Title = "Все Ииоты",
                 Items =
                 {
                     new Tab
